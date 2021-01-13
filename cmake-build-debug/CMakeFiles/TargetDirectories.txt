@@ -1,0 +1,3 @@
+C:/Users/Josh Shiells/CLionProjects/Window32API/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Josh Shiells/CLionProjects/Window32API/cmake-build-debug/CMakeFiles/Window32API.dir
+C:/Users/Josh Shiells/CLionProjects/Window32API/cmake-build-debug/CMakeFiles/rebuild_cache.dir
