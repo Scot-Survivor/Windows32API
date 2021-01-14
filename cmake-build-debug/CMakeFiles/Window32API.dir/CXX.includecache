@@ -7,8 +7,8 @@
 #IncludeRegexTransform: 
 
 C:/Users/Josh Shiells/CLionProjects/Window32API/main.cpp
-iostream
--
-Windows.h
+windows.h
+C:/Users/Josh Shiells/CLionProjects/Window32API/windows.h
+tchar.h
 -
 
